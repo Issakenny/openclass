@@ -1,3 +1,5 @@
 DESCRIPTION:
 
 Design and hosting of a website for bee keeping.
+
+DURATION: Must be completed in the next 3weeks before the end of this month.
