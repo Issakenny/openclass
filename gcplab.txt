@@ -1,0 +1,5 @@
+LIST OF LAB ASSIGNMENT TO BE COMPLETED
+
+LAB1: Creating a vm on Comput Engine.
+LAB2: Deploying application using the App Engine
+
