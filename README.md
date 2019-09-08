@@ -1,2 +1,1 @@
-# openclass
-Solution for the exercise from the openclass classroom.
+openclass classroom assignment.
